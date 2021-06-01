@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">IMC</string>
+    <string name="ndice_de_massa_corporal">Índice de Massa Corporal</string>
+    <string name="nenhum_c_lculo_at_o_momento">Nenhum cálculo até o momento</string>
+    <string name="calcular_imc">Calcular IMC</string>
+    <string name="peso">Peso</string>
+    <string name="altura">Altura</string>
+    <string name="kg">Kg</string>
+    <string name="m">m</string>
+</resources>
